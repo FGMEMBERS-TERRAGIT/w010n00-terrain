@@ -1,0 +1,5 @@
+OBJECT_BASE 2857179.btg
+OBJECT DIKO.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -5.566418 9.385883 367.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -5.546910 9.388483 367.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -5.556831 9.388110 370.2 0.00
